@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### Currently I'm one of the contributors:
 #### [Coliseum](https://dbforgame.herokuapp.com) - Browser MMORPG ([git repository](https://github.com/d4rsen/Coliseum))
 ### How to reach me: 
- - telegam - [@compampa](https://t.me/compampa) 
+ - telegam - [@SergheiK](https://t.me/SergheiK) 
  - email - the.miscellaneous@ya.ru
  - instagram - [forgotten.login](https://instagram.com/forgotten.login)
 Techonologies | Description | Tools
@@ -54,8 +54,8 @@ HTML & CSS | *preprocessors & principles* | `Emmet`, `SaSS`, `Bootstrap`,`Materi
 
 <h2 align="center">💬 Find me:</h2>
 <p align="center" align='right'>
-  <a target="_blank"href="mailto:the.miscellaneous@ya.ru"><img src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail" /></a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://t.me/compampa"><img src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram" /></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="mailto:kuchiyash93@mail.ru"><img src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail" /></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://t.me/SergheiK"><img src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 
@@ -100,20 +100,20 @@ Testing | *test* | ![Jest](https://img.shields.io/badge/-jest-20232A?style=for-t
 
   <h2> 📈 GitHub Activity Graph: </h2>
   
-![compampa's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=compampa&hide_border=true&theme=redical)
+![compampa's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=serghei789&hide_border=true&theme=redical)
   
   <br> <br>
   
-![compampa's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=compampa&theme=radical&layout=compact)
+![compampa's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=serghei789&theme=radical&layout=compact)
   
 <br> <br>
   
-![compampa's github stats](https://github-readme-stats.vercel.app/api?username=compampa&show_icons=true&theme=radical&include_all_commits=true)
+![compampa's github stats](https://github-readme-stats.vercel.app/api?username=serghei789&show_icons=true&theme=radical&include_all_commits=true)
   
   <br> <br>
   
   
   
-![](https://visitor-badge.glitch.me/badge?page_id=compampa)
+![](https://visitor-badge.glitch.me/badge?page_id=serghei789)
   
 </div>
