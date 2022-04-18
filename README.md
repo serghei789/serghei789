@@ -1,4 +1,4 @@
-<!--# Hi there I'm Aleksey. 👋
+<!--# Hi there I'm Serghei. 👋
 **compampa/compampa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
@@ -27,11 +27,11 @@ Here are some ideas to get you started:
  - instagram - [forgotten.login](https://instagram.com/forgotten.login)
 Techonologies | Description | Tools
 --- | --- | ---
-Javascript | *methodology* | **MVC**, **DOM**, **TDD**, **AJAX**, **SOLID**, **OOP**
+Javascript | *methodology* | **MVC**, **DOM**, **AJAX**, **SOLID**, **OOP**
 React | *services* | `React router DOM v6`, `Redux`, `Redux saga`, `React Hooks`
 node.js | *stack* | `Express`, `JWT`, `Socket IO`, `REST API`, `axios`
-SQL | *ORM & DB* | `Redis`, `Postgres`, `Sequelize`, `MongoDB`
-Development & Deploy | *services* | `GIT`, `Firebase`, `Heroku`, `webpack`
+SQL | *ORM & DB* | `Postgres`, `Sequelize`
+Development & Deploy | *services* | `GIT`, `Heroku`
 Testing | *test* | `Jest`
 HTML & CSS | *preprocessors & principles* | `Emmet`, `SaSS`, `Bootstrap`,`Material UI`, `module`, `grid`, `flexboxes`
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
