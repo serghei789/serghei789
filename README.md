@@ -98,11 +98,11 @@ Testing | *test* | ![Jest](https://img.shields.io/badge/-jest-20232A?style=for-t
 <div align="center">
  <br> <br>
 
-  <h2> 📈 GitHub Activity Graph: </h2>
+  <!-- <h2> 📈 GitHub Activity Graph: </h2>
   
 ![compampa's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=serghei789&hide_border=true&theme=redical)
   
-  <br> <br>
+  <br> <br> -->
   
 ![compampa's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=serghei789&theme=radical&layout=compact)
   
